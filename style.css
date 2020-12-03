@@ -1,0 +1,25 @@
+.cases-container{
+  width: 49%;
+  float: left;
+  border-style: solid;
+  border-width: 1px;
+}
+
+
+ .deaths-container{
+   width: 49%;
+   float: left;
+   border-style: solid;
+   border-width: 1px;
+
+ }
+
+p{
+  margin: 20px;
+  text-align: center;
+}
+
+
+body{
+  margin: 20px;
+}
