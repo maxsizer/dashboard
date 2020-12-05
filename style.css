@@ -3,6 +3,8 @@
   float: left;
   border-style: solid;
   border-width: 1px;
+  font-size: 30px;
+  color: blue;
 }
 
 
@@ -11,15 +13,18 @@
    float: left;
    border-style: solid;
    border-width: 1px;
-
+   font-size: 30px;
+   color: red;
  }
+
 
 p{
   margin: 20px;
   text-align: center;
+  font-size: 25px;
 }
 
 
-body{
-  margin: 20px;
+.container{
+    margin: 20px;
 }
