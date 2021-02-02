@@ -1,5 +1,5 @@
 .cases-container{
-  width: 49%;
+  width: 100%;
   float: left;
   border-style: solid;
   border-width: 1px;
@@ -9,7 +9,7 @@
 
 
  .deaths-container{
-   width: 49%;
+   width: 100%;
    float: left;
    border-style: solid;
    border-width: 1px;
@@ -17,6 +17,14 @@
    color: red;
  }
 
+ .vac-container{
+   width: 100%;
+   float: left;
+   border-style: solid;
+   border-width: 1px;
+   font-size: 30px;
+   color: green;
+ }
 
 p{
   margin: 20px;
